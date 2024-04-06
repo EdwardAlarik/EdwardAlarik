@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Edward Alarik
+- 🧑‍💻 I’m a PHP developer
 - 👀 I’m interested in iOS and Android
 - 🌱 I’m currently learning Movil
 - 📫 How to reach me for mail
